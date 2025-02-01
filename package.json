@@ -1,0 +1,23 @@
+{
+  "name": "sass_live_streaming",
+  "version": "1.0.0",
+  "description": "langing page",
+  "main": "index.html",
+  "scripts": {
+    "sass:watch": "sass --style=expanded --watch styles:dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyabovaEV/live_streaming.git"
+  },
+  "author": "Elena Ryabova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyabovaEV/live_streaming/issues"
+  },
+  "homepage": "https://github.com/RyabovaEV/live_streaming#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "sass": "^1.83.4"
+  }
+}
