@@ -12,6 +12,10 @@ h1,h2,h3,h4,h5,h6,p,button, ul {
     padding: 0;
 }
 
+figure {
+    margin: 0;
+}
+
 a {
     text-decoration: none;
     color: unset;
@@ -24,4 +28,5 @@ li {
 .container {
     max-width: 1440px;
     margin: 0 auto;
+    padding: 0 10px;
 }
