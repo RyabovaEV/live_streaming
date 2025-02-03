@@ -6,9 +6,10 @@
 .hero {
   position: relative;
   margin: 0 auto;
-  padding: 140px 0 0 0;
+  padding: 140px 0 40px 0;
   max-width: 1260px;
-  height: 830px;
+//   min-height: 830px;
+height: auto;
   background: url(../assets/cloud_alpha.png) center/contain no-repeat;
 
   &__content {
