@@ -165,12 +165,13 @@
                     @include m.font(16px, 300, v.$color_white);
                 }
                 max-width: 730px;
-                background: url("../assets/webp/cactus_alpha.webp") 99% 60%/320px no-repeat;
+                height: 600px;
+                background: url("../assets/webp/cactus_alpha.webp") 99% 100%/320px no-repeat;
             }
 
             @media (max-width: v.$media_sm) {    
-                height: 550px;
-                background: url("../assets/webp/cactus_alpha.webp") 99% 90%/220px no-repeat;
+                height: 450px;
+                background: url("../assets/webp/cactus_alpha.webp") 99% 100%/220px no-repeat;
             }
         }
     }
